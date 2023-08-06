@@ -84,7 +84,7 @@ input, select, textarea {
 
 	body {
 		background: #fffccc;
-		font-family: 'Dosis', sans-serif;
+		font-family: 'Montserrat', sans-serif;
 		font-size: 13pt;
 		font-weight:400;
 		line-height: 1.5em;
@@ -126,10 +126,10 @@ input, select, textarea {
 		}
 
 	h2 {
-		border-radius: 5px;
+		border-radius: 7px;
     font-size: 2em;
     letter-spacing: -1px;
-    background-color: #2c2a3040;
+    background-color: #0e012742;
 	}
 
 		h2.alt {
